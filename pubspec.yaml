@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   package_info_plus: ^4.0.0
-  http: ^1.0.0
+  http: ^0.13.1
   html: ^0.15.3
   url_launcher: ^6.1.11
   collection: ^1.15.0
